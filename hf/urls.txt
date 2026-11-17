@@ -1,0 +1,8 @@
+music0.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_d014b32c-e183-423c-aace-e829aff32b79.mp3
+music1.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_787e6c2e-7418-408b-82df-e9810ef96efa.mp3
+sfx0.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_21b36635-e2e3-408e-8d5f-bf96caf3a564.mp3
+sfx1.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_f1f5e131-d12d-4055-ba2e-54c8ba2f9142.mp3
+sfx2.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_946d69a6-f48f-4f81-9a0c-0625f0e3a541.mp3
+sfx3.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_42aa7859-3900-4bd6-bdb8-c4b64f934e31.mp3
+sfx4.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_fb3a93cf-d246-499b-ab39-8370f5aa516b.mp3
+sfx5.mp3 https://d8j0ntlcm91z4.cloudfront.net/user_3M3eTqGREqTmrvyp6T3JoxhAEjs/hf_20261117_123713_62d7d276-c1c2-4090-b45e-f0b308b7f36a.mp3

@@ -1,0 +1,20 @@
+name: fetch-media
+on:
+  push:
+    paths: ['hf/urls.txt']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download
+        run: |
+          mkdir -p hf/in
+          while read -r name url; do [ -n "$name" ] && curl -fsSL -o "hf/in/$name" "$url"; done < hf/urls.txt
+          ls -la hf/in
+      - name: Commit
+        run: |
+          git config user.name "fetch-bot"; git config user.email "fetch-bot@users.noreply.github.com"
+          git add hf/in && git commit -m "Fetched media" && git push || echo nothing
